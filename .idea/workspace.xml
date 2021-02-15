@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3fb0df8e-a012-4df4-aa6a-c4932c4d0624" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/王明泽 - 前端 - 17764512349.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/王明泽 - 前端 - 17764512349.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/printstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +130,7 @@
       <updated>1565274921890</updated>
       <workItem from="1565274924218" duration="6109000" />
       <workItem from="1565281521024" duration="1495000" />
-      <workItem from="1613389844118" duration="7287000" />
+      <workItem from="1613389844118" duration="7864000" />
     </task>
     <task id="LOCAL-00001" summary="完成">
       <created>1565281549543</created>
@@ -151,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613415952062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2021">
+      <created>1613416225632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613416225632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

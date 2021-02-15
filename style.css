@@ -230,17 +230,6 @@ main .right .project {
 .project .title {
     margin-left: 10px;
 }
-
-.project .work-name {
-    width: 100%;
-    position: relative;
-}
-
-.project .is-end {
-    position: absolute;
-    right: 0;
-}
-
 .project .title-wrapper svg {
     fill: #2b3033
 }
@@ -298,15 +287,9 @@ main .right .project {
 }
 
 .education .education-content {
-    position: relative;
     margin: 5px 0 5px 40px;
     font-size: 14px;
     color: #666666;
-}
-
-.education .is-end {
-    position: absolute;
-    right: 0;
 }
 
 .education .education-content span:not(:first-child) {
