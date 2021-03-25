@@ -59,6 +59,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -114,6 +115,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -132,6 +134,8 @@
       <workItem from="1565281521024" duration="1495000" />
       <workItem from="1613389844118" duration="10766000" />
       <workItem from="1613661675014" duration="5497000" />
+      <workItem from="1613982834481" duration="271000" />
+      <workItem from="1613998212163" duration="1746000" />
     </task>
     <task id="LOCAL-00001" summary="完成">
       <created>1565281549543</created>
@@ -196,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613667877724</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2021">
+      <created>1613983061539</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613983061539</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
